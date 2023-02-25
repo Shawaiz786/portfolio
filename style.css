@@ -45,6 +45,10 @@ body{
     font-size: 0.8dvi;
 }
 
+i{
+    
+}
+
 .top-right{
     margin-left: 80%;
     margin-top: -1%;
@@ -56,7 +60,7 @@ body{
 }
 
 .circle{
-    background-color: rgb(23, 19, 19);
+    background-color:rgba(0, 0, 0, 0.519);
     height: 35dvi;
     width: 35dvi;
     border-radius: 50%;
@@ -84,7 +88,7 @@ body{
     margin-right: 80%;
     margin-top: -1.9dvi;
     background-color: yellow;
-    padding-top: 0.16%;
+    padding-top: 0.08dvi;
 }
 
 .pali-line{
@@ -127,9 +131,11 @@ body{
 
 .fb2{
     color: yellow;
+    background-color: #2e2e3e;
+    border-radius: 30dvi;
 }
 .square{
-    background-color:#2e2e3e;
+    background-color:#39394b;
     height: 9dvi;
     width: 77dvi;
     margin-left: 10dvi;
@@ -150,7 +156,7 @@ body{
     background: #28282c;
     width: 15dvi;
     margin-top: -7.5dvi;
-    border-radius: 9px;
+    border-radius: 1dvw;
     margin-left: 13%;
     position: absolute;
 }
@@ -159,7 +165,7 @@ body{
     background: #28282c;
     width: 15dvi;
     margin-top: -7.5dvi;
-    border-radius: 9px;
+    border-radius: 1dvw;
     margin-left: 32.3%;
     position: absolute;
 }
@@ -168,7 +174,7 @@ body{
     background: #28282c;
     width: 15dvi;
     margin-top: -7.5dvi;
-    border-radius: 9px;
+    border-radius: 1dvw;
     margin-left: 51%;
     position: absolute;
 }
@@ -177,13 +183,14 @@ body{
     background: #28282c;
     width: 15%;
     margin-top: -7.5dvi;
-    border-radius: 9px;
+    border-radius: 1dvw;
     margin-left: 69.5%;
     position: absolute;
 }
 .down{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.599);
     margin-top: -4.5dvi;
+    
 }
 .what {
     font-size: 3dvi;
@@ -253,12 +260,12 @@ body{
 }
 
 .my {
-    margin-top: -28dvi;
+    margin-top: -31dvw;
     margin-left: 55dvi;
 }
 
 .ui1{
-        margin-top: 1%;
+    margin-top: 0.5dvi;
         font-size: 1dvi;
         margin-left: 27%;
         opacity: 0.5
@@ -266,11 +273,11 @@ body{
     .ui{
         font-family: sans-serif;
         margin-left: 27%;
-        margin-top: -11%;
+        margin-top: -6dvi;
         font-size: 1.8dvi;
     }
     .font1{
-        margin-top: -1%;
+        margin-top: 0.5dvi;
         font-size: 1dvi;
         margin-left: 27%;
         opacity: 0.5
@@ -278,11 +285,11 @@ body{
     .font{
         font-family: sans-serif;
         margin-left: 27%;
-        margin-top: -11%;
+        margin-top: -6dvi;
         font-size: 1.8dvi;
     }
     .mobile1{
-        margin-top: -1%;
+        margin-top: 0.5dvi;
         font-size: 1dvi;
         margin-left: 27%;
         opacity: 0.5
@@ -290,11 +297,11 @@ body{
     .mobile{
         font-family: sans-serif;
         margin-left: 27%;
-        margin-top: -11%;
+        margin-top: -6dvi;
         font-size: 1.8dvi;
     }
     .box1 {
-        background-color: #2e2e3e;
+        background-color:#39394b;
         height: 20dvi;
         width: 25dvi;
         margin-left: 10%;
@@ -303,7 +310,7 @@ body{
         position: relative;
     }
     .box2{
-        background-color: #2e2e3e;
+        background-color:#39394b;
         height: 20dvi;
         width: 25dvi;
     margin-left: 37%;
@@ -312,7 +319,7 @@ body{
     position: relative;
     }
     .box3{
-        background-color: #2e2e3e;
+        background-color: #39394b;
         height: 20dvi;
         width: 25dvi;
         margin-left: 64%;
@@ -350,10 +357,10 @@ body{
     text-decoration: none;
 }
 .control{
-    width: 74%;
+    width: 66%;
     opacity: 0.5;
-    margin-top: 2.5dvi;
-}  
+    margin-top: 4dvi;
+}
 
 br{
     margin: 10%;
