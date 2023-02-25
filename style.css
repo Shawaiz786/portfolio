@@ -1,0 +1,362 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: #2e2e3e;
+    color: white;
+}
+
+.top{
+    margin-top: 2%;
+    margin-left: 10%;
+    font-size: 1.5dvi;
+}
+
+.face{
+    color: yellow;
+}
+
+.top-left{
+    margin-left: 29%;
+    margin-top: -2dvi;
+} 
+
+.sh{
+    display: inline-block;
+    text-decoration: none;   
+}
+
+
+
+.light{
+    opacity: 0.5;
+}
+
+.sh a{
+    color: white;
+    text-decoration: none;
+}
+
+.line{
+    margin-left: 2.9%;
+    margin-top: 0.5dvi;
+    font-size: 0.8dvi;
+}
+
+.top-right{
+    margin-left: 80%;
+    margin-top: -1%;
+    font-size: 0.8dvi;
+}
+
+.mark{
+    margin-left: 10%;
+}
+
+.circle{
+    background-color: rgb(23, 19, 19);
+    height: 35dvi;
+    width: 35dvi;
+    border-radius: 50%;
+    margin-left: 32%;
+    margin-top: 2%;
+}
+
+.name{
+    margin-top: -25dvi;
+    margin-left: 10dvi;
+    font-size: 4.4dvi;
+    font-family: sans-serif;  
+    line-height: 0dvi;  
+    opacity: .5;
+
+}
+.shawaiz {
+    margin-left: 9.5dvi;
+    font-size: 5dvi;
+    font-family: sans-serif;
+    line-height: 11dvi;
+}
+.yellow {
+    margin-left: 10%;
+    margin-right: 80%;
+    margin-top: -1.9dvi;
+    background-color: yellow;
+    padding-top: 0.16%;
+}
+
+.pali-line{
+    margin-left: 10%;
+    line-height: 1.5dvi;
+    margin-top: 1.5dvi;
+    font-size: 0.8dvi;
+}
+
+
+.four-h {
+    margin-left: 62%;
+    margin-top: -20dvi;
+    font-size: 1.2dvi;
+}
+
+.dusri-line{
+    margin-left: 62%;
+    margin-top: 1dvi;
+    font-size: 1.5dvi;
+}
+
+.show{
+    color: yellow;
+    font-size: 0.9dvi;
+    margin-top: 1dvi;
+}
+
+.bottom{
+    display: inline-block;
+    text-decoration: none;
+    margin: 1%;  
+}
+
+.fb {
+    margin-left: 61.4%;
+    margin-top: 1dvi;
+    font-size: 1.6dvi;
+}
+
+.fb2{
+    color: yellow;
+}
+.square{
+    background-color:#2e2e3e;
+    height: 9dvi;
+    width: 77dvi;
+    margin-left: 10dvi;
+    margin-top: 9dvi;
+    box-shadow: 5px 10px 15px 10px #00000040; 
+    position: relative; 
+}
+
+.black{
+    background-color: black;
+    margin-top: 19dvi;
+    
+}
+
+
+.meta {
+    height: 6dvi;
+    background: #28282c;
+    width: 15dvi;
+    margin-top: -7.5dvi;
+    border-radius: 9px;
+    margin-left: 13%;
+    position: absolute;
+}
+
+.google {
+    background: #28282c;
+    width: 15dvi;
+    margin-top: -7.5dvi;
+    border-radius: 9px;
+    margin-left: 32.3%;
+    position: absolute;
+}
+.linkedin {
+    height: 6dvi;
+    background: #28282c;
+    width: 15dvi;
+    margin-top: -7.5dvi;
+    border-radius: 9px;
+    margin-left: 51%;
+    position: absolute;
+}
+.slack {
+    height: 6dvi;
+    background: #28282c;
+    width: 15%;
+    margin-top: -7.5dvi;
+    border-radius: 9px;
+    margin-left: 69.5%;
+    position: absolute;
+}
+.down{
+    background-color: black;
+    margin-top: -4.5dvi;
+}
+.what {
+    font-size: 3dvi;
+    padding-top: 12dvi;
+    padding-left: 10%;
+    font-family: system-ui;
+}
+.small{
+    padding-left: 10%;
+    padding-top: 2dvi;
+    width: 392px;
+    font-size: 1.1dvi;
+    line-height: 1.81dvi;
+}
+.one{
+    color: yellow;
+    font-size: 1.5dvi;
+    font-family: sans-serif;
+    padding-top: 10%;
+
+}
+.one-one{
+    font-size: 1.09dvi;
+  }
+.hi{
+    color: yellow;
+    font-size: 1.5dvi;
+    font-family: sans-serif;
+    margin-top: -7px;
+
+}
+.two {
+    color: yellow;
+    font-size: 1.5dvi;
+    margin-left: 9dvi;
+    margin-top: -8.5dvi;
+    font-family: sans-serif;
+}
+.tow-tow{
+    margin-left: 9dvi;
+    font-size: 1.09dvi;
+}
+.hl {
+    color: yellow;
+    font-size: 1.5dvi;
+    margin-left: 9dvi;
+    margin-top: 1.3dvi;
+    font-family: sans-serif;
+}
+.img {
+    height: 7dvi;
+    background: #28282c;
+    width: 24.5%;
+    margin-top: 2dvi;
+}
+.img1 {
+    height: 7dvi;
+    background: #28282c;
+    width: 24.5%;
+    margin-top: 2dvi;
+}
+.img2 {
+    height: 6.5dvi;
+    background: #28282c;
+    width: 24.5%;
+    margin-top: 2dvi;
+}
+
+.my {
+    margin-top: -28dvi;
+    margin-left: 55dvi;
+}
+
+.ui1{
+        margin-top: 1%;
+        font-size: 1dvi;
+        margin-left: 27%;
+        opacity: 0.5
+    }
+    .ui{
+        font-family: sans-serif;
+        margin-left: 27%;
+        margin-top: -11%;
+        font-size: 1.8dvi;
+    }
+    .font1{
+        margin-top: -1%;
+        font-size: 1dvi;
+        margin-left: 27%;
+        opacity: 0.5
+    }
+    .font{
+        font-family: sans-serif;
+        margin-left: 27%;
+        margin-top: -11%;
+        font-size: 1.8dvi;
+    }
+    .mobile1{
+        margin-top: -1%;
+        font-size: 1dvi;
+        margin-left: 27%;
+        opacity: 0.5
+    }
+    .mobile{
+        font-family: sans-serif;
+        margin-left: 27%;
+        margin-top: -11%;
+        font-size: 1.8dvi;
+    }
+    .box1 {
+        background-color: #2e2e3e;
+        height: 20dvi;
+        width: 25dvi;
+        margin-left: 10%;
+        margin-top: 6%;
+        box-shadow: 5px 10px 15px 10px #00000040;
+        position: relative;
+    }
+    .box2{
+        background-color: #2e2e3e;
+        height: 20dvi;
+        width: 25dvi;
+    margin-left: 37%;
+    margin-top: -20%;
+    box-shadow: 5px 10px 15px 10px #00000040;
+    position: relative;
+    }
+    .box3{
+        background-color: #2e2e3e;
+        height: 20dvi;
+        width: 25dvi;
+        margin-left: 64%;
+        margin-top: -20%;
+        box-shadow: 5px 10px 15px 10px #00000040;
+        position: relative; 
+    }
+    .x, .pc, .ph {
+        padding-left: 7%;
+        padding-top: 6%;
+        font-size: 3.5dvi;
+        color: yellow;
+    }
+    .head1, .head2, .head3 {
+        font-family: sans-serif;
+        font-size: 1.8dvi;
+        padding-left: 7%;
+        padding-top: 7%;
+    }
+    .pera1, .pera2, .pera3 {
+        padding-left: 7%;
+    padding-top: 6%;
+    font-size: 1dvi;
+    width: 68%;
+    font-family: sans-serif;
+    line-height: 1.8dvi;
+    }
+    
+.pic{
+        margin-bottom: -40%;
+        width: 32%;
+        margin-left: 33%;
+    }  
+.my{
+    text-decoration: none;
+}
+.control{
+    width: 74%;
+    opacity: 0.5;
+    margin-top: 2.5dvi;
+}  
+
+br{
+    margin: 10%;
+}
+       
+        
