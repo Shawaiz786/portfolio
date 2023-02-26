@@ -381,9 +381,9 @@ line-height: 1.8dvi;
 }
     
 .pic{
-        margin-bottom: -40%;
-        width: 32%;
-        margin-left: 33%;
+    margin-bottom: -38dvi;
+    width: 32dvi;
+    margin-left: 33dvi;
     }  
 .my{
     text-decoration: none;
@@ -684,8 +684,3 @@ br{
 }
 
 
-
-
-@media screen and (max-width:700px) {
-    
-}
